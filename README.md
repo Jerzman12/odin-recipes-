@@ -1,0 +1,2 @@
+# odin-recipes-
+This is my first serious project with html, I'll be doing a bunch of recipies and using the different codes I have learned, such as images or links. I will try not to look up resources or use the notes I have written and see if there is anything I struggle with currently.
